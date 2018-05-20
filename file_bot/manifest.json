@@ -1,0 +1,6 @@
+{
+    "name": "Reddit Bot",
+    "version": "1.0",
+    "description": "Iterates through reddit front page links",
+    "manifest_version": 2
+}
